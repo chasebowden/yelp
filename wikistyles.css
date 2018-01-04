@@ -1,0 +1,108 @@
+.jumbotron {
+  background-image: url("../img/latteart.jpg");
+  background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  height: 615px;
+}
+
+.logo{
+  display: block;
+  margin: 0 auto;
+}
+
+.item{
+  color: white;
+}
+
+li.topnav{
+  font-size: 15px;
+  text-align: center;
+  display: inline;
+  padding: 10px;
+  font-weight: bold;
+
+}
+#signup{
+  border: 2px solid white;
+  border-radius: 10%;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+}
+input.formcontrol{
+  width:20px;
+}
+
+div.searchbar {
+  display: block;
+  text-align: center;
+}
+
+div.input {
+  margin: 0px -2px;
+  width: 300px;
+
+}
+
+div.ui.label {
+  background-color: white;
+  font-size: 19px;
+}
+li.yelpicons{
+  font-size: 15px;
+  color: white;
+  text-align: center;
+  display: inline;
+  padding: 10px;
+  font-weight: bold;
+}
+
+ul.undersearch{
+  text-align: center;
+}
+
+.review {
+  float:left;
+}
+
+.btn-default {
+  background-color: #c41200;
+  font-weight:bold;
+  color:white;
+}
+
+div.well{
+  display: block;
+  margin: 0 auto;
+  width: 850px;
+  padding-bottom: 50px;
+}
+
+.yelpportland {
+  padding-top: 80px;
+  margin-top: 100px;
+  text-align:center;
+  color:#c41200;
+
+}
+
+li.city{
+  font-size: 15px;
+  color: grey;
+  text-align: center;
+  display: inline;
+  padding: 10px;
+}
+ul.places{
+  text-align: center;
+}
+#container1{
+  width: 900px;
+}
+img.hotbiz{
+  width:30%;
+}
