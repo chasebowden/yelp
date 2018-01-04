@@ -103,6 +103,38 @@ ul.places{
 #container1{
   width: 900px;
 }
-img.hotbiz{
-  width:30%;
+
+li.hotbiz {
+  text-align: center;
+  display: inline;
+  width: 10px;
+}
+img.pic{
+  width: 30%;
+  margin: 10px;
+}
+
+.hotandnew {
+  text-align:center;
+  color:#c41200;
+}
+
+.photocred {
+  text-align: center;
+  /*top:100%;*/
+  margin-top: 270px;
+  color:white;
+  font-size: 15px;
+}
+.jumbotron p {
+  font-size: 15px;
+}
+
+.btn.btn-danger {
+  background-color: #c41200;
+  height:38px
+}
+
+.glyphicon.glyphicon-search {
+  height:23px;
 }
